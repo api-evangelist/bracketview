@@ -64,5 +64,97 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-BracketView is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog) and added to the network as a stub for full-pipeline profiling.
-- https://bracketview.in/
+BracketView provides a privacy‑first online JSON workspace that lets users view, format, validate, query (JSONPath + jq), diff, and generate schemas directly in the browser. It offers multiple visualizations such as tree, graph, node cards, and nested tables, supporting nine UI languages. Optional AI‑assisted fixes, encrypted snapshots, and a webhook tester are available as paid features. The service also includes a downloadable Windows and Linux desktop app for offline use, ensuring data never leaves the user's device unless explicitly chosen.
+
+**Areas:** JSON · Workspace · Formatter · Viewer · Privacy
+
+## BracketView on APIs.io
+
+Everything profiled for BracketView is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bracketview/](https://apis.io/providers/bracketview/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [BracketView API](https://apis.io/apis/bracketview/bracketview-api/) — BracketView provides a privacy‑first online JSON workspace with features like viewing, formatting, validating, querying, diffing, and schema generation via…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bracketview Domain Security](https://apis.io/security/bracketview/bracketview-domain-security/)
+- [Bracketview Vulnerability Disclosure](https://apis.io/security/bracketview/bracketview-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Bracketview Plans Pricing](https://apis.io/plans/bracketview/bracketview-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bracketview.in/)
+- [Pricing](https://bracketview.in/pricing)
+- [Support](https://bracketview.in/contact)
+- [Changelog](https://bracketview.in/changelog)
+- [Blog](https://bracketview.in/blog)
+- [Security](https://bracketview.in/privacy)
+- [Terms of service](https://bracketview.in/terms)
+- [Privacy policy](https://bracketview.in/privacy)
+
+## API Evangelist rating
+
+**Kin Score 24.4** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 64.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 34.2 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 52.6 |
+
+**Agent readiness 10.4** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 25.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bracketview/](https://apis.io/providers/bracketview/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for BracketView: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bracketview/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
